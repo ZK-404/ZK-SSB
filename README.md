@@ -1,2 +1,2 @@
-# ZK-SSB
-ZK-SSB
+# SSB
+SSB crack 64bit only
